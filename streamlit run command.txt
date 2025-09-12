@@ -1,0 +1,13 @@
+cd "C:\Users\hp\Downloads\Multiple Disease Prediction System-211012011018-PRERNA KAPOOR\Multiple Disease Prediction System-20240102T183903Z-001\Multiple Disease Prediction System\saved models"
+streamlit run app.py
+
+
+
+
+--------------------------------------
+new
+
+>streamlit run app.py
+
+
+C:\Users\hp\Downloads\Multiple Disease Prediction System-211012011018-PRERNA KAPOOR\Multiple Disease Prediction System-20240102T183903Z-001\Multiple Disease Prediction System>streamlit run app.py
